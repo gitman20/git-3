@@ -1,1 +1,1 @@
-# git-3
+# For people to easily complete hacktoberfest
